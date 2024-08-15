@@ -12,4 +12,3 @@ The script will loop through all the stocks for each quarter and will output the
 
 4)The solution also includes the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
 
-This is my own code and did not receive assistance from anyone.
