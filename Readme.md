@@ -12,3 +12,4 @@ The script will loop through all the stocks for each quarter and will output the
 
 4)The solution also includes the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
 
+P.S. -To view the Excel data, after you click on the xlsm file, cliack on view raw data. The excel file is very large so you have to use this method to view the data.
